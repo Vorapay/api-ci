@@ -3,7 +3,7 @@ stack: jdk 11      # Указываем версию JDK
 
 branches:
   only:
-    - master       # Следим только за веткой master
+    - main       # Следим только за веткой master
 
 build: off         # Отключаем стандартную сборку
 
